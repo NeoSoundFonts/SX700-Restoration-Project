@@ -2,6 +2,7 @@
 
 - Fixed Loop Point of Synth Strings, it should be -1 at start.
 - Fixed Stereo Link.
+- Added Soundtrack (Atmo5th).
 
 # 2026-08-22
 
