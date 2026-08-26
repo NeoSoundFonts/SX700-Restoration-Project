@@ -1,3 +1,7 @@
+# 2026-08-26
+
+- Added Galaxy Pad (Goblins).
+
 # 2026-08-25
 
 - Fixed Loop Point of Synth Strings, it should be -1 at start.
