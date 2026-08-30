@@ -1,6 +1,10 @@
+# 2026-08-30
+
+- Added VCSL Vibraphone Soft (JazzVibes).
+
 # 2026-08-26
 
-- Added Galaxy Pad (Goblins).
+- Added Goblins (GalaxyPad).
 
 # 2026-08-25
 
